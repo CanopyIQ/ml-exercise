@@ -53,7 +53,29 @@ An example request:
 ```json
 {
   "title": "How To Teach A Sea Lion Who’s Fussy About Grammar",
-  "content": "When it comes to sentence structure, Rocky, a sea lion, was a stickler. ”It really mattered to her, what’s going to be the direct and indirect object,” says Kathy Streeter, an animal trainer. For Sierra, it isn’t the grammar that interests her. It’s the vocalizations. This California sea lion loves experimenting with her vocal range, and she hates being interrupted. More than 1 million people visit the New England Aquarium in Boston each year. Before walking through the front door, they watch Atlantic harbor seals play. Inside, visitors watch sea lions cruise around the   pool. What these visitors may not know is that the aquarium’s 10 seals and two sea lions go to school each day Streeter is one of their teachers. Rushing between classes, Streeter can rattle off the disposition of each student.   Cayenne, a harbor seal, has a ”hard time totally, totally focusing.”   Sierra is smart and eager. She’s like: ”Come on! Let’s go! Let’s move fast! You’re taking too long.”   Zoe, a    sea lion, isn’t great at transitioning between tasks. With such different personalities, what’s the classroom dynamic like? ”They get along really, really well.” But Streeter rarely works with the whole student body. Instead, most of her lessons are taught   . Or, to put it in language that would sound familiar to just about any   teacher, she has an individualized learning plan for each of her students. With rubber boots and waterproof pants, Streeter starts her lesson with Chucky  —   short for Chacoda  —   by asking slowly and clearly, ”How are you?” In a rush of excitement, the harbor seal answers in a garbled voice, ”How are you. How are you!” ”Good boy! Bubbles?” she asks. Much to the delight of the tourists watching, Chucky dives underwater and starts blowing."
+  "content": "When it comes to sentence structure, Rocky, a sea lion, was a 
+  stickler. ”It really mattered to her, what’s going to be the direct and 
+  indirect object,” says Kathy Streeter, an animal trainer. For Sierra, it 
+  isn’t the grammar that interests her. It’s the vocalizations. This California 
+  sea lion loves experimenting with her vocal range, and she hates being 
+  interrupted. More than 1 million people visit the New England Aquarium in 
+  Boston each year. Before walking through the front door, they watch Atlantic 
+  harbor seals play. Inside, visitors watch sea lions cruise around the pool. 
+  What these visitors may not know is that the aquarium’s 10 seals and two sea 
+  lions go to school each day Streeter is one of their teachers. Rushing between 
+  classes, Streeter can rattle off the disposition of each student. Cayenne, a 
+  harbor seal, has a ”hard time totally, totally focusing.” Sierra is smart and 
+  eager. She’s like: ”Come on! Let’s go! Let’s move fast! You’re taking too long.” 
+  Zoe, a sea lion, isn’t great at transitioning between tasks. With such different 
+  personalities, what’s the classroom dynamic like? ”They get along really, really 
+  well.” But Streeter rarely works with the whole student body. Instead, most of her 
+  lessons are taught   . Or, to put it in language that would sound familiar to just 
+  about any   teacher, she has an individualized learning plan for each of her 
+  students. With rubber boots and waterproof pants, Streeter starts her lesson with 
+  Chucky  —   short for Chacoda  —   by asking slowly and clearly, ”How are you?” 
+  In a rush of excitement, the harbor seal answers in a garbled voice, ”How are you. 
+  How are you!” ”Good boy! Bubbles?” she asks. Much to the delight of the tourists 
+  watching, Chucky dives underwater and starts blowing."
 }
 ```
 
