@@ -96,7 +96,7 @@ interested in the following:
 
 - how do you evaluate performance of your model/system
 - get a working, baseline model with acceptable performance
-- how/why did you choose the components of you prediction system
+- how/why did you choose the components of your prediction system
 - what else would you try if you had more time
 
 Please include a written document explaining the above.
