@@ -18,8 +18,8 @@ article was written in one of the following publications:
 - Buzzfeed News
 - Talking Points Memo
 
-To assist with training a model to perform this, we are providing gold data in the
-`train.csv` file included in this repository. The file has the following columns:
+To assist with training a model to perform this, we are providing gold data in this file:
+[train.csv](https://www.dropbox.com/s/6zljwgyj5p9g2ja/train.csv?dl=1). The file has the following columns:
 
 | column      | description                                                                |
 |-------------|----------------------------------------------------------------------------|
